@@ -47,12 +47,20 @@ Réplica funcional de WhatsApp Web con conexión a API personalizada con espera 
 
 ---
 
+## 📈 **Métricas de Código**  
+*(Repositorios activos)*  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandro5801&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro5801&layout=compact&theme=radical)
+
+---
+
 ## Conecta Conmigo
 
 Siempre estoy abierto a nuevas ideas, colaboraciones y desafíos. ¿Quieres trabajar juntos o conocer más sobre mi trabajo?
 
-- **Email:** [leandrosardinas01@gmail.com](mailto:leandrosardinas01@gmail.com)
-- **Phone:** [5355586305](#)
+📧 **Email:** [leandrosardinas01@gmail.com](mailto:leandrosardinas01@gmail.com)
+
+📱 **WhatsApp:** [+53 55586305](https://wa.me/5355586305])  
+
 ---
 
 _Disfruta del código, comparte el conocimiento y sigue aprendiendo cada día. ¡Gracias por visitar mi perfil!_ 🌟
